@@ -1,0 +1,11 @@
+TransactionID,Amount,TransactionType,Location,Device,TimeOfDay,IsFraud
+1,120.50,Online,USA,Mobile,Night,1
+2,560.00,In-Store,UK,POS,Morning,0
+3,45.20,Online,India,Desktop,Evening,0
+4,2100.00,Online,USA,Mobile,Night,1
+5,310.75,In-Store,Canada,POS,Afternoon,0
+6,990.00,Online,Germany,Desktop,Night,1
+7,12.30,Online,India,Mobile,Morning,0
+8,1780.60,Online,USA,Desktop,Night,1
+9,95.00,In-Store,UK,POS,Afternoon,0
+10,650.45,Online,France,Mobile,Evening,0
