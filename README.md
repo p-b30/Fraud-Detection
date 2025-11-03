@@ -3,6 +3,19 @@
 An AI-powered **fraud detection dashboard** that uses **machine learning** and **real-time analytics** to identify suspicious financial transactions.  
 Built with **Streamlit**, **Scikit-learn**, and **Plotly**, it provides an interactive UI and a dynamic Lottie animation background.
 
+<p align="center">
+  <img src="images/img1.png" alt="Image 1" width="600" />
+</p>
+
+<p align="center">
+  <img src="images/img2.png" alt="Image 2" width="600" />
+</p>
+
+<p align="center">
+  <img src="images/img3.png" alt="Image 2" width="600" />
+</p>
+
+
 ---
 
 ## 🚀 Features
