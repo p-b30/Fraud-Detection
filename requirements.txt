@@ -8,3 +8,5 @@ seaborn
 joblib
 streamlit-lottie
 requests
+imbalanced-learn
+
